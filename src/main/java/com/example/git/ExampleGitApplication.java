@@ -11,7 +11,7 @@ public class ExampleGitApplication {
 
 	@RequestMapping("/")
 	public String name(){
-		return "Hello git";
+		return "Hello git --branch";
 	}
 	
 	public static void main(String[] args) {
