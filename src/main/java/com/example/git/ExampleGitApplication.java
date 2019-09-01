@@ -11,7 +11,7 @@ public class ExampleGitApplication {
 
 	@RequestMapping("/")
 	public String name(){
-		return "Hello git v7 --merge";
+		return "Hello git v8 --commit to github";
 	}
 	
 	public static void main(String[] args) {
